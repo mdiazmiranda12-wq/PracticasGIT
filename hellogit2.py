@@ -1,5 +1,4 @@
 receta vegan 1
-"comentarios"
 receta vegan 2
 receta vegan 3  
 receta vegan 4
